@@ -1,5 +1,9 @@
 .vs/
 x64/
+include/
+lib/
+downloaded/
+packages/
 
 # Prerequisites
 *.d
