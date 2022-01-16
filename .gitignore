@@ -1,7 +1,8 @@
 .vs/
 x64/
-include/
+includes/
 lib/
+lib_sources/
 downloaded/
 packages/
 
